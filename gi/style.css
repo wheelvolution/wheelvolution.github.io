@@ -1,0 +1,128 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: auto;
+    height: 320vh;
+    position: cover;
+}
+.main{
+    background-color: yellowgreen;
+    width: auto;
+    height: auto;
+}
+.main h1{
+    padding-left: 460px;
+    font-weight: bold;
+    padding-bottom: 30px;
+}
+.main h1 a{
+    text-decoration: none;
+    color: orangered;
+}
+marquee{
+    font-weight: bold;
+    font-size: 30px;
+    color: orangered;
+    height: 50px;
+}
+.man{
+    width: auto;
+    height: auto;
+}
+.man img{
+    margin-top: 50px;
+    margin-left: 360px;
+}
+.mon{
+    width: auto;
+    height: auto;
+}
+.mon img{
+    margin-top: 100px;
+    margin-left: 360px;
+}
+.wop{
+    width: auto;
+    height: auto;
+}
+.wop img{
+    margin-top: 100px;
+    margin-left: 360px;
+}
+.wep{
+    width: auto;
+    height: auto;
+}
+.wep img{
+    margin-top: 100px;
+    margin-left: 360px;
+}
+.nane{
+    width: auto;
+    height: auto;
+}
+.nane h1{
+    padding-left: 600px;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    font-weight: bold;
+    font-size: 60px;
+    background-color: yellow;
+    color: orange;
+}
+.nane img{
+    padding-top: 40px;
+    padding-left: 5px;
+}
+.nane p{
+    font-size: 20px;
+    font-weight: bold;
+}
+.got{
+    width: auto;
+    height: auto;
+}
+.got img{
+    padding-left: 5px;
+    padding-top: 40px;
+}
+.none{
+    width: auto;
+    height: auto;
+}
+.none img{
+    padding-left: 5px;
+    padding-top: 40px;
+}
+.gote{
+    width: auto;
+    height: auto;
+}
+.gote img{
+    padding-left: 5px;
+    padding-top: 40px;
+}
+.made{
+    width: auto;
+    height: auto;
+
+}
+.made ul{
+    display: flex;
+    list-style: none;
+}
+.made ul li{
+    padding-top: 90px;
+    margin-left: 200px;
+    font-weight: bolder;
+    font-size: 20px;
+}
+.made ul li a{
+    text-decoration: none;
+    color: black;
+}
+.made ul li a:hover{
+    background-color: orange;
+}
